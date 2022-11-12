@@ -1,0 +1,31 @@
+[
+  {
+    "sponsorName": "AIMTOP Indo Nuansa Kimia",
+    "sponsorImg": "/img/sponsor/aimtop_gold.jpg",
+    "sponsorType": "large"
+  },{
+    "sponsorName": "Paragon",
+    "sponsorImg": "/img/sponsor/Paragon-02.png",
+    "sponsorType": "large"
+  },{
+    "sponsorName": "Garudafood - Gery Salut",
+    "sponsorImg": "/img/sponsor/garudafood_gerysalut.png",
+    "sponsorType": "middle"
+  },{
+    "sponsorName": "Garudafood - Chocolatos",
+    "sponsorImg": "/img/sponsor/garudafood_chocolatos.png",
+    "sponsorType": "middle"
+  },{
+    "sponsorName": "BNI Life",
+    "sponsorImg": "/img/sponsor/bni_life.jpg",
+    "sponsorType": "middle"
+  },{
+    "sponsorName": "PDAM Tirtawening",
+    "sponsorImg": "/img/sponsor/pdam_tirtawening.jpg",
+    "sponsorType": "middle"
+  },{
+    "sponsorName": "MB Cargo",
+    "sponsorImg": "/img/sponsor/MB Cargo.jpeg",
+    "sponsorType": "middle"
+  }
+]

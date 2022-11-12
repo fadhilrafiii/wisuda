@@ -1,0 +1,278 @@
+{
+  "kesekjenan": [
+    { 
+      "id": 0,
+      "bidang": "kesekjenan",
+      "staff": [
+        {
+          "id": 0,
+          "name": "Fachryan Maulana",
+          "position": "Sekretaris Jenderal",
+          "instagram": "https://instagram.com/fachryanm_",
+          "src": "/img/organogram/Sekretaris_Jendral.png"
+        },
+        {
+          "id": 1,
+          "name": "Dharin Raissa Grahanti B",
+          "position": "Sekretaris 1",
+          "instagram": "https://instagram.com/dharinr",
+          "src": "/img/organogram/Sekretaris_1.png"
+        },
+        {
+          "id": 2,
+          "name": "Sherin Lady Shabrina",
+          "position": "Sekretaris 2",
+          "instagram": "https://instagram.com/Sherinldys",
+          "src": "/img/organogram/Sekretaris_2.png"
+        },
+        {
+          "id": 3,
+          "name": "Yuthika Raihan N",
+          "position": "Bendahara",
+          "instagram": "https://instagram.com/yuthikandhra",
+          "src": "/img/organogram/Bendahara.png"
+        }
+      ]
+    }
+  ],
+  "manajemen personalia": [
+      { 
+        "id": 1,
+        "bidang": "manajemen-personalia",
+        "staff": [
+          {
+            "id": 0,
+            "name": "Aulin Zahra Adani",
+            "position": "Kepala Bidang Manajemen Personalia",
+            "instagram": "https://instagram.com/aulinzhr",
+            "src": "/img/organogram/Kabid_MP.png"
+          },
+          {
+            "id": 1,
+            "name": "Zulafa Azmi Aunun Noor",
+            "position": "Kepala Divisi MSDM",
+            "instagram": "https://instagram.com/zulafaazmi",
+            "src": "/img/organogram/Kadiv_MSDM.png"
+          },
+          {
+            "id": 2,
+            "name": "Mohammad Salman Subki",
+            "position": "Kepala Divisi PSDM",
+            "instagram": "https://instagram.com/salmansubki",
+            "src": "/img/organogram/Kadiv_PSDM.png"
+          }
+        ]
+      }
+    ],
+    "acara" : [
+      { 
+        "id": 2,
+        "bidang": "acara",
+        "staff": [
+          {
+            "id": 0,
+            "name": "Madina Nur Safitri",
+            "position": "Kepala Bidang Acara",
+            "instagram": "https://instagram.com/medisafitri",
+            "src": "/img/organogram/Kabid_Acara.png"
+          },
+          {
+            "id": 1,
+            "name": "Dina Syarafina Aribah",
+            "position": "Kepala Divisi Education",
+            "instagram": "https://instagram.com/dinasyrfna",
+            "src": "/img/organogram/Kadiv_Education.png"
+          },
+          {
+            "id": 2,
+            "name": "Muhamad Ilman Sukarsa",
+            "position": "Ketua Divisi Appreciation",
+            "instagram": "https://instagram.com/milmanss",
+            "src": "/img/organogram/Kadiv_Appreciation.png"
+          },
+          {
+            "id": 3,
+            "name": "Stephanie Surya",
+            "position": "Kepala Divisi Entertainment ",
+            "instagram": "https://instagram.com/stephaniegouw",
+            "src": "/img/organogram/Kadiv_Entertainment.png"
+          },
+          {
+            "id": 4,
+            "name": "Cathy Tandria",
+            "position": "Kepala Divisi Charity",
+            "instagram": "https://instagram.com/cathytandria",
+            "src": "/img/organogram/Kadiv_Charity.png"
+          }
+        ]
+      }
+    ],
+    "IT": [
+      { 
+        "id": 3,
+        "bidang": "IT",
+        "staff": [
+          {
+            "id": 0,
+            "name": "Ananda Yulizar Muhammad",
+            "position": "Kepala Bidang IT",
+            "instagram": "https://instagram.com/anandayulizar",
+            "src": "/img/organogram/Kabid_IT.png"
+          },
+          {
+            "id": 1,
+            "name": "Evan Pradanika",
+            "position": "Kepala Divisi Technical",
+            "instagram": "https://instagram.com/evanpradanika",
+            "src": "/img/organogram/Kadiv_Technical.png"
+          },
+          {
+            "id": 2,
+            "name": "M Xavier Rafifsyah Prasetyo",
+            "position": "Kepala Divisi Maintenance",
+            "instagram": "https://instagram.com/xavierprasetyo",
+            "src": "/img/organogram/Kadiv_Maintenance.png"
+          }
+        ]
+      }
+    ],
+    "ketua": [
+      { 
+        "id": 4,
+        "bidang": "ketua",
+        "staff": [
+          {
+            "id": 0,
+            "name": "Deki Yusuf Faisol",
+            "position": "Ketua Pelaksana",
+            "instagram": "https://instagram.com/dekiyusuff",
+            "src": "/img/organogram/Ketua.png",
+            "ketua": true
+          }
+        ]
+      }
+    ],
+    "operasional" : [
+      { 
+        "id": 5,
+        "bidang": "operasional",
+        "staff": [
+          {
+            "id": 0,
+            "name": "Rico Aditya Arnol",
+            "position": "Kepala Bidang Operasional",
+            "instagram": "https://instagram.com/adityaarico",
+            "src": "/img/organogram/Kabid_Operasional.png"
+          },
+          {
+            "id": 1,
+            "name": "Yoel Anthony Sugianto",
+            "position": "Kepala Divisi Logistik",
+            "instagram": "https://instagram.com/yoel_anthonyy",
+            "src": "/img/organogram/Kadiv_Logistik.png"
+          },
+          {
+            "id": 2,
+            "name": "Atha Nayaka Ghazal Adhirajasa ",
+            "position": "Kepala Divisi Produksi",
+            "instagram": "https://instagram.com/nayakatha",
+            "src": "/img/organogram/Kadiv_Produksi.png"
+          }
+        ]
+      }
+    ],
+    "Fundraising": [
+      { 
+        "id": 6,
+        "bidang": "Fundraising",
+        "staff": [
+          {
+            "id": 0,
+            "name": "Nisrina Khairunnisa Ramadhita",
+            "position": "Kepala Bidang Fundraising",
+            "instagram": "https://instagram.com/nisrinashinaa",
+            "src": "/img/organogram/Kabid_Fundraising.png"
+          },
+          {
+            "id": 1,
+            "name": "Stefanus",
+            "position": "Kepala Divisi Entrepreneurship",
+            "instagram": "https://instagram.com/Stefanuslamloo",
+            "src": "/img/organogram/Kadiv_Entrepreneur.png"
+          },
+          {
+            "id": 2,
+            "name": "Ghesan Nabila Putri",
+            "position": "Kepala Divisi Sponsorship",
+            "instagram": "https://instagram.com/ghesanabila",
+            "src": "/img/organogram/Kadiv_Sponsorship.png"
+          }
+        ]
+      }
+    ],
+    "kreatif": [
+      { 
+        "id": 7,
+        "bidang": "kreatif",
+        "staff": [
+          {
+            "id": 0,
+            "name": "Rifa Nabilah Putri",
+            "position": "Kepala Bidang Kreatif",
+            "instagram": "https://instagram.com/rifanaab",
+            "src": "/img/organogram/Kabid_Kreatif.png"
+          },
+          {
+            "id": 1,
+            "name": "Angela Calista",
+            "position": "Kepala Divisi Publikasi",
+            "instagram": "https://instagram.com/angelaclst",
+            "src": "/img/organogram/Kadiv_Publikasi.png"
+          },
+          {
+            "id": 2,
+            "name": "Atira Feodora Munthe",
+            "position": "Kepala Divisi Dokumentasi",
+            "instagram": "https://instagram.com/feodoratira",
+            "src": "/img/organogram/Kadiv_Dokumentasi.png"
+          },
+          {
+            "id": 3,
+            "name": "Gigana Swastiwitantra",
+            "position": "Kepala Divisi Grafis",
+            "instagram": "https://instagram.com/ggnsw",
+            "src": "/img/organogram/Kadiv_Grafis.png"
+          }
+        ]
+      }
+    ],
+    "relasi": [      
+    { 
+      "id": 8,
+      "bidang": "relasi",
+      "staff": [
+        {
+          "id": 0,
+          "name": "Mahvira Riyani Octavia",
+          "position": "Kepala Bidang Relasi",
+          "instagram": "https://instagram.com/mahviraro",
+          "src": "/img/organogram/Kabid_Relasi.png"
+        },
+        {
+          "id": 1,
+          "name": "Zahra Shofia Hanin",
+          "position": "Kepala Divisi Intrakampus",
+          "instagram": "https://instagram.com/zahrashofiahanin",
+          "src": "/img/organogram/Kadiv_Intrakampus.png"
+        },
+        {
+          "id": 2,
+          "name": "Jonathan",
+          "position": "Kepala Divisi Ekstrakampus",
+          "instagram": "https://instagram.com/jnthnhrynt",
+          "src": "/img/organogram/Kadiv_Ekstrakampus.png"
+        }
+      ]
+    } 
+  ]
+}
